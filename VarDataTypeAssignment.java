@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 package variablesanddatatypes;
 
 public class VarDataTypeAssignment {
